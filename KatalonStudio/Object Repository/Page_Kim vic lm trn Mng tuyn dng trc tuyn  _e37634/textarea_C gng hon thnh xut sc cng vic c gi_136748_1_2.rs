@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_C gng hon thnh xut sc cng vic c gi_136748_1_2</name>
+   <tag></tag>
+   <elementGuidId>3a2aa407-80ae-4cc0-9aa7-63541a9d67ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/form/div[8]/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>e6f568f1-9361-4b3a-a4a8-ccb1ad0e40e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-error</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b48f89fc-9076-4e4b-a59d-220201b44afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>f08281ae-0b97-4cc4-a98c-831d3fa93a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-0-2-11 form-control rounded-left </value>
+      <webElementGuid>ad6a6840-eca9-4977-a095-0028330ce7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cố gắng hoàn thành xuất sắc công việc được giao trong thời </value>
+      <webElementGuid>c078c20d-c739-4325-8af5-ff42aacb98eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-group required row&quot;]/div[@class=&quot;col-sm-8&quot;]/textarea[@class=&quot;input-0-2-11 form-control rounded-left&quot;]</value>
+      <webElementGuid>85320a0b-ef57-4b77-a65c-6ceb32ebb643</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div[8]/div/textarea</value>
+      <webElementGuid>bf78b5f6-4991-466a-a611-9d50d1d4f546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mục tiêu nghề nghiệp'])[3]/following::textarea[1]</value>
+      <webElementGuid>2c72cb11-91c6-4022-97b2-9baa92f28372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm nơi làm việc'])[1]/following::textarea[1]</value>
+      <webElementGuid>da60dde7-91b9-46f1-b7a7-ebf762a6973b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Có thể đổi chỗ ở'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>76755693-27a3-46aa-b7f5-9d78a758dd73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Có'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>fd545813-17c6-4208-a52e-710769e7cdeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cố gắng hoàn thành xuất sắc công việc được giao trong thời']/parent::*</value>
+      <webElementGuid>4e001716-2490-409d-910b-811d3034bbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>167c186e-5b4d-4473-b591-2fcddb8b8c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[(text() = 'Cố gắng hoàn thành xuất sắc công việc được giao trong thời ' or . = 'Cố gắng hoàn thành xuất sắc công việc được giao trong thời ')]</value>
+      <webElementGuid>f99527ed-0fdc-46ec-bd1e-6fb8acbf1ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddc83e1d-c1c9-4d34-98de-dde0ff3a4a0f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>402f4ceb-a861-468a-bb3e-8dc99163a797</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a99e3af-f530-4028-9402-2e84d3f4e642</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aba788f9-c8bb-4965-afab-676e656d74af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Email</description>
+      <id>402f4ceb-a861-468a-bb3e-8dc99163a797</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Mật khẩu</description>
+      <id>4a99e3af-f530-4028-9402-2e84d3f4e642</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Kết quả</description>
+      <id>aba788f9-c8bb-4965-afab-676e656d74af</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

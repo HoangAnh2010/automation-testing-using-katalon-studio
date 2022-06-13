@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hng Yn</name>
+   <tag></tag>
+   <elementGuidId>d749202e-1825-43b8-94ed-e1b403f46182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Hưng Yên' or . = 'Hưng Yên')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>952d267b-641c-4552-8f7b-59aa65ad77aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item cl-select--item</value>
+      <webElementGuid>e140f305-428d-4848-adf7-348999964ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b62488f-4a2e-448c-9e3c-5b838dd726b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hưng Yên</value>
+      <webElementGuid>07890e4d-6883-4bf2-9bb9-f267fa521fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group required col-md-6&quot;]/div[@class=&quot;dropdown cl-select show&quot;]/div[@class=&quot;dropdown-menu shadow-sm menu-0-2-18 cl-select--menu cl-scrollbar pt-0 show&quot;]/button[@class=&quot;dropdown-item cl-select--item&quot;]</value>
+      <webElementGuid>e60ba649-e547-45dd-a072-cc9b074e7000</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[35]</value>
+      <webElementGuid>22915c5f-57df-4936-82fd-d1f95e2fe3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div[4]/div/div/div/button[31]</value>
+      <webElementGuid>06d07125-38f9-44d5-a633-3bc170e65220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hòa Bình'])[1]/following::button[1]</value>
+      <webElementGuid>06e4dfce-228e-4777-99a5-f6d219d50299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hậu Giang'])[1]/following::button[2]</value>
+      <webElementGuid>0b1e5551-2494-4340-8d8d-3f25103f673c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kiên Giang'])[1]/preceding::button[1]</value>
+      <webElementGuid>8d028ac8-7abd-4bf0-9f52-8d27845e9429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khánh Hòa'])[1]/preceding::button[2]</value>
+      <webElementGuid>0049c907-2b44-4032-9168-98491a8b9c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hưng Yên']/parent::*</value>
+      <webElementGuid>9988614b-d355-459b-81b6-2e2b912915c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[31]</value>
+      <webElementGuid>6a81ddcb-0940-4dca-96d0-d39bbdddeaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Hưng Yên' or . = 'Hưng Yên')]</value>
+      <webElementGuid>d85a6983-3171-4039-90bf-8be1957e8acf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

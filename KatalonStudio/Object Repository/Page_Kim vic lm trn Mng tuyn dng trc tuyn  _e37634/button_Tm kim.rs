@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tm kim</name>
+   <tag></tag>
+   <elementGuidId>3d80d11c-f813-492b-a294-51ccb26c6a09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.text-nowrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6879f9c4-4576-42ac-9a47-d2fcfa0b3adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>28f0ee94-f52e-44d0-bcc6-1ddf6c26391e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-nowrap</value>
+      <webElementGuid>0f704b9d-84c6-441c-b7b3-bd7440e98637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>c3b9c124-3a44-4ac9-ad85-76d5e6e972a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;top_controller top_index&quot;]/main[1]/section[@class=&quot;search-section&quot;]/div[@class=&quot;hero-banner jumbotron rounded-0 d-none d-lg-flex justify-content-center align-items-start mb-0&quot;]/div[@class=&quot;search-container container&quot;]/div[1]/form[@class=&quot;search-wrapper mx-auto&quot;]/button[@class=&quot;btn btn-primary text-nowrap&quot;]</value>
+      <webElementGuid>ae1bc81e-3e62-48b5-b8b3-34c32079811b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>23ecda47-f496-4ada-a5f9-351869c6b99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b740a030-2ffa-42a9-a3e9-f491dcdff466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mx-1</value>
+      <webElementGuid>3e275718-c15c-4d5b-a07c-0260d82b33fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>ff74b655-d776-46a2-aea6-242b08c8610b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_nav_search&quot;)/form[@class=&quot;d-flex root-0-2-1&quot;]/button[@class=&quot;btn btn-primary mx-1&quot;]</value>
+      <webElementGuid>38cf93a9-505d-42be-8eac-b6b31c5fc609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>de0ff124-d900-4fb1-90e6-f8ef068b77a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Việc làm cho ứng viên chuyên nghiệp'])[1]/following::button[1]</value>
+      <webElementGuid>7b9f619a-b2d3-4ab7-9419-312c22d645fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công Ty TNHH Việt Nam SUZUKI'])[1]/following::button[1]</value>
+      <webElementGuid>7e52b75c-9e30-4ecc-8c09-5163ca18ddee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Việc làm cho ứng viên chuyên nghiệp'])[2]/preceding::button[1]</value>
+      <webElementGuid>19e6dd83-2123-4226-8ddd-7c3abc387fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công Ty TNHH Việt Nam SUZUKI'])[2]/preceding::button[1]</value>
+      <webElementGuid>21641feb-bee5-4842-9067-6ec8ac6ffa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tìm kiếm']/parent::*</value>
+      <webElementGuid>0ac0d60a-77c8-4477-96a6-490a44fcc718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>3a47a1b9-32a0-4990-9b65-f42e577929b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Tìm kiếm' or . = 'Tìm kiếm')]</value>
+      <webElementGuid>c4c421f4-dd80-4d57-9e86-04e3b6472e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top_nav_search']/form/button</value>
+      <webElementGuid>6535f4d9-83c7-4f81-b6fe-19c0d16896c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngành nghề/ Địa điểm'])[1]/preceding::button[1]</value>
+      <webElementGuid>52cc1f18-9952-4c56-bf3e-549d378c5e10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

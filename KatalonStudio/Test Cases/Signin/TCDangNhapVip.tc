@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDangNhapVip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4b374a7-6825-43d8-8717-6013b305b3f2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7d8f558-ed9e-4adc-8a3f-e5ae5fc1aba6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ce7cf3e-7934-4ec1-afeb-c5d57a09df49</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee549b7c-08cd-4f7e-a731-18c5e3c6a165</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>285ce078-0071-4e9e-9720-4844999bc118</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Email</description>
+      <id>d7d8f558-ed9e-4adc-8a3f-e5ae5fc1aba6</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Mật khẩu</description>
+      <id>6ce7cf3e-7934-4ec1-afeb-c5d57a09df49</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Kết quả p</description>
+      <id>ee549b7c-08cd-4f7e-a731-18c5e3c6a165</id>
+      <masked>false</masked>
+      <name>resultP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Kết quả f</description>
+      <id>285ce078-0071-4e9e-9720-4844999bc118</id>
+      <masked>false</masked>
+      <name>resultF</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Qun Hai B Trng</name>
+   <tag></tag>
+   <elementGuidId>a9fbcdac-e862-4bd0-b4e1-8abeeb3f558c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b7709b67-e1d4-4be0-a690-24661d190a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item cl-select--item</value>
+      <webElementGuid>416702ae-a172-4f56-b93f-650a0172eafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd476ab3-44ef-49c2-bde8-47bc1c3c37d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quận Hai Bà Trưng</value>
+      <webElementGuid>d6629dae-1747-42f0-9704-4e6acb9a1597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group required col-md-6&quot;]/div[@class=&quot;dropdown cl-select show&quot;]/div[@class=&quot;dropdown-menu shadow-sm menu-0-2-18 cl-select--menu cl-scrollbar pt-0 show&quot;]/button[@class=&quot;dropdown-item cl-select--item&quot;]</value>
+      <webElementGuid>4f32d60f-91fa-4a30-a692-4e792cb3aedb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>08430be1-aaf8-4921-9904-02369a5da70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div[4]/div[2]/div/div/button[6]</value>
+      <webElementGuid>74a0d029-89ce-4984-afd4-01b2093428bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quận Hà Đông'])[1]/following::button[1]</value>
+      <webElementGuid>022cca90-0a81-4251-86fb-81fbdf7e6a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quận Đống Đa'])[1]/following::button[2]</value>
+      <webElementGuid>26f0d57b-cbdb-409b-b6e2-48641fb40df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quận Hoàn Kiếm'])[1]/preceding::button[1]</value>
+      <webElementGuid>468621f8-b938-47e5-869a-00dbc9827ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quận Hoàng Mai'])[1]/preceding::button[2]</value>
+      <webElementGuid>c2cec3ec-b9b0-458a-a4b2-e3c414ee1394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quận Hai Bà Trưng']/parent::*</value>
+      <webElementGuid>11f89cd9-2273-4bb9-9fc1-3430dc71cb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+      <webElementGuid>bce35f61-c58b-41c6-a8d8-cb669345e4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Quận Hai Bà Trưng' or . = 'Quận Hai Bà Trưng')]</value>
+      <webElementGuid>bb7cbec5-6306-47bc-ae19-28ed951900a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

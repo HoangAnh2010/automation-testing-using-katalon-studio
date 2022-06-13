@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Nha Khoa</name>
+   <tag></tag>
+   <elementGuidId>18817383-5b17-429e-86d9-64bc22088235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[63]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>746d5e29-901a-42a8-8e0b-9318279761a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item cl-select--item</value>
+      <webElementGuid>59163d8c-f061-445c-915f-f2e2c0c51abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a514e213-6a68-41e9-b2cb-d414a1c78abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nha Khoa</value>
+      <webElementGuid>cd77299c-49a1-473d-acbe-27af8c2a9e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-row form-group required&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;dropdown cl-select show&quot;]/div[@class=&quot;dropdown-menu shadow-sm menu-0-2-18 cl-select--menu cl-scrollbar pt-0 show&quot;]/button[@class=&quot;dropdown-item cl-select--item&quot;]</value>
+      <webElementGuid>295d50b4-bf95-4805-8af8-7128576ebdad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[63]</value>
+      <webElementGuid>eb0261d1-8074-416e-b72e-092a11f36192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div[3]/div/div/div/button[58]</value>
+      <webElementGuid>fe388a7a-4545-4ca1-9772-ed16f66ceaa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngôn ngữ học'])[1]/following::button[1]</value>
+      <webElementGuid>5e62cdd0-e3c5-4da2-b5a3-8c94deaaeb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngôn ngữ'])[1]/following::button[2]</value>
+      <webElementGuid>f4a7dfea-99ac-4460-bbc2-48a676296c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhân loại học'])[1]/preceding::button[1]</value>
+      <webElementGuid>49cbd85a-c88a-412a-97d6-837c2146daa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nông nghiệp/ Thủy sản/ Lâm nghiệp'])[1]/preceding::button[2]</value>
+      <webElementGuid>c54750c2-a8be-444e-8c68-ad6f9fe5bb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nha Khoa']/parent::*</value>
+      <webElementGuid>2803e585-806c-4993-aeae-610eb7d3c5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[58]</value>
+      <webElementGuid>94837028-d5eb-417e-9aaf-054e1e795322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Nha Khoa' or . = 'Nha Khoa')]</value>
+      <webElementGuid>f58646e7-ae37-4e5d-a499-ec0147f98348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

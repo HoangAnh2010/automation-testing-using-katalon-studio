@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Vit NamVit kiuNc ngoi</name>
+   <tag></tag>
+   <elementGuidId>f61da754-2d56-4160-ab45-55038db620d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/form/div/div[2]/label/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>490f17cd-c87a-4dea-b6ab-38e3656663b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-error</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f9d00d2c-69bb-42df-b688-42abd86c72d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control fluent-form-control </value>
+      <webElementGuid>51c46e05-8589-46e1-b095-28d62b85683d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...Việt NamViệt kiềuNước ngoài</value>
+      <webElementGuid>9d7112c5-3553-45c3-a996-99705504455b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[@class=&quot;personalDetailsFormInput-0-2-7&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-5&quot;]/label[@class=&quot;w-100&quot;]/div[@class=&quot;fluent-select&quot;]/select[@class=&quot;form-control fluent-form-control&quot;]</value>
+      <webElementGuid>b1eef527-5f68-478a-9bc9-de9eddb56889</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div/div[2]/label/div[2]/select</value>
+      <webElementGuid>71dccded-5fc6-46e1-94ea-f1505ff2b17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>acfa949e-2270-4b61-be58-34f78a77edd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ảnh đại diện'])[1]/preceding::select[1]</value>
+      <webElementGuid>31a57917-c1fd-4af7-8dd1-40061fdcc32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu'])[1]/preceding::select[1]</value>
+      <webElementGuid>06f579f1-e324-4734-bede-3e059ed82cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>82856626-8c75-48cf-87ba-c32fdfeb4f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '...Việt NamViệt kiềuNước ngoài' or . = '...Việt NamViệt kiềuNước ngoài')]</value>
+      <webElementGuid>d9a55497-8d26-4fd1-a202-faeefe8bcd6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

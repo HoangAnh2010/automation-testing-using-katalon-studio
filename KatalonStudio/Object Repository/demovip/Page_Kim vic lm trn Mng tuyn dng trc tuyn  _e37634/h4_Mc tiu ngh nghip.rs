@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Mc tiu ngh nghip</name>
+   <tag></tag>
+   <elementGuidId>9216e56c-2ffb-4a87-ba46-b74d364f7cde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.mb-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>0860968a-e2cb-4261-9c25-c364d94221a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-5</value>
+      <webElementGuid>4bcaa4fd-898d-4f78-99c7-ca9ccd7b3db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mục tiêu nghề nghiệp</value>
+      <webElementGuid>d8b856e3-a057-49fb-83c1-11390250a994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/h4[@class=&quot;mb-5&quot;]</value>
+      <webElementGuid>19c40880-5718-4205-afa6-53e007f4e540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/h4</value>
+      <webElementGuid>657044a6-b6a2-4d1e-b856-91b1eee0ee58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trạng thái hồ sơ'])[1]/following::h4[1]</value>
+      <webElementGuid>0326345a-a62c-4076-ac22-297ffab4232e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bước 9'])[1]/following::h4[1]</value>
+      <webElementGuid>70df7691-2b0f-4324-acf1-9d793849d2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vị trí mong muốn'])[1]/preceding::h4[1]</value>
+      <webElementGuid>414c3a79-6031-49ba-9321-308ed61bb59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mức lương gần đây nhất'])[1]/preceding::h4[1]</value>
+      <webElementGuid>345fe677-62e4-450b-8db3-5e35199b0912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>f6469589-e829-4272-8e09-275bc3355c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Mục tiêu nghề nghiệp' or . = 'Mục tiêu nghề nghiệp')]</value>
+      <webElementGuid>ccdb918c-b48b-4ca9-b602-cd4495e2d655</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

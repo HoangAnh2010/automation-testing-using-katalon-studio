@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCFail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95fc51bf-5a19-46bd-aa63-cec54906c61e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd563b23-aaa1-4693-b9d6-bd9194b5095a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d94c0ca-5f26-4946-ac75-2cca66d49264</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88eb0883-0131-4110-8583-dee91520e26b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Email</description>
+      <id>fd563b23-aaa1-4693-b9d6-bd9194b5095a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Mật khẩu</description>
+      <id>8d94c0ca-5f26-4946-ac75-2cca66d49264</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Kết quả </description>
+      <id>88eb0883-0131-4110-8583-dee91520e26b</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

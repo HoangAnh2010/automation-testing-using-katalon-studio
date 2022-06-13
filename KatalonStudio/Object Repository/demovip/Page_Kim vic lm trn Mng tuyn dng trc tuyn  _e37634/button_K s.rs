@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_K s</name>
+   <tag></tag>
+   <elementGuidId>59b2ec92-3c68-4cf5-9681-94bd4efd57ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d48f846e-7e50-46e0-8549-e42d260c09a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item cl-select--item</value>
+      <webElementGuid>1811eb4d-9037-4fa6-9c11-bb94a63d4650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8fe029ee-f455-4cb6-8961-062a23c17f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kỹ sư</value>
+      <webElementGuid>41a19988-8e32-4c79-9062-c6f8aa8b16aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-group required&quot;]/div[@class=&quot;dropdown cl-select show&quot;]/div[@class=&quot;dropdown-menu shadow-sm menu-0-2-18 cl-select--menu cl-scrollbar pt-0 show&quot;]/button[@class=&quot;dropdown-item cl-select--item&quot;]</value>
+      <webElementGuid>9ca270e3-7a89-43d5-aa4d-85bb7b8fc721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>9acb2229-f461-4ac4-b341-a9477bfed417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div/div/div/button[7]</value>
+      <webElementGuid>ace8d5ef-137c-4494-84a4-f6b4ee5e1dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cử nhân'])[1]/following::button[1]</value>
+      <webElementGuid>a179f330-e0e7-40ba-b45e-e57c674f9913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cao đẳng'])[1]/following::button[2]</value>
+      <webElementGuid>c6fa4267-30f4-46b9-b058-553b11778bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thạc sĩ'])[1]/preceding::button[1]</value>
+      <webElementGuid>2dcbde45-5113-437a-886f-cd839244bcc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thạc sĩ Nghệ thuật'])[1]/preceding::button[2]</value>
+      <webElementGuid>df1aacfa-0e5e-43f7-96c3-4c845be9e118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kỹ sư']/parent::*</value>
+      <webElementGuid>89d75848-006c-4472-bf31-9c5245f246e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[7]</value>
+      <webElementGuid>9375c33e-cac7-4d35-9f32-ac28d17bd6cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kỹ sư' or . = 'Kỹ sư')]</value>
+      <webElementGuid>ab0cc1b6-1fa4-47eb-9a37-8c1a8374b0ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

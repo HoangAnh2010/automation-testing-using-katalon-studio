@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tm kim_lni lni-search-alt mr-xl-2</name>
+   <tag></tag>
+   <elementGuidId>df7bf7c7-3026-4959-8b39-ccbbd182de22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top_nav_search']/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.lni.lni-search-alt.mr-xl-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f3459e33-dde6-497a-b182-fd9042072452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-search-alt mr-xl-2</value>
+      <webElementGuid>14d0b019-523f-4f72-a53d-4f309324b253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_nav_search&quot;)/form[@class=&quot;d-flex root-0-2-3&quot;]/button[@class=&quot;btn btn-primary mx-1&quot;]/i[@class=&quot;lni lni-search-alt mr-xl-2&quot;]</value>
+      <webElementGuid>6316e0a1-facc-486c-aa10-137171746fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>864bb8e3-3019-41c0-8b4f-57a6bb738376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-search-alt mr-xl-2</value>
+      <webElementGuid>d6587b90-4927-4e8a-a0c8-f99343346307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_nav_search&quot;)/form[@class=&quot;d-flex root-0-2-3&quot;]/button[@class=&quot;btn btn-primary mx-1&quot;]/i[@class=&quot;lni lni-search-alt mr-xl-2&quot;]</value>
+      <webElementGuid>c568367e-ab47-4220-a707-1ef0849eaa85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top_nav_search']/form/button/i</value>
+      <webElementGuid>858ab247-9868-4b30-a614-35357ad872f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>cae450a6-ecd2-40da-b766-bc4f113ccece</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

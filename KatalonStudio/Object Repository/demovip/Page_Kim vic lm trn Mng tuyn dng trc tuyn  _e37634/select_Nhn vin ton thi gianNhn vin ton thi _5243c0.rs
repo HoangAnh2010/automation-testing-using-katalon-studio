@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Nhn vin ton thi gianNhn vin ton thi _5243c0</name>
+   <tag></tag>
+   <elementGuidId>62ecefd7-ce9b-44e6-be68-77c8312a1a84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/form/div[4]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3057e4d9-7879-4be6-9a29-91e7bc33a510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-error</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>21e7e070-e0f0-40b0-bbb0-7ab024149c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control fluent-form-control </value>
+      <webElementGuid>e7ea60d1-6ece-4323-b513-0af991e2178c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...Nhân viên toàn thời gianNhân viên toàn thời gian tạm thờiNhân viên bán thời gianNhân viên bán thời gian tạm thờiNhân viên hợp đồngKhác</value>
+      <webElementGuid>13fd0e7d-29c3-4119-ba8f-cefdf35a1e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[1]/div[@class=&quot;form-group required row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;fluent-select&quot;]/select[@class=&quot;form-control fluent-form-control&quot;]</value>
+      <webElementGuid>d350bfae-02a7-4bd2-bd81-28b239362603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div[4]/div/div/select</value>
+      <webElementGuid>551eb1ff-b3d3-4feb-a05c-5397354f6672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loại công việc'])[1]/following::select[1]</value>
+      <webElementGuid>6bde9027-ca8f-4b00-b350-b32936e5e026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mức lương mong muốn'])[1]/following::select[2]</value>
+      <webElementGuid>b83e3480-ec3a-4da2-bf8d-6a3a4889f2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cấp bậc mong muốn'])[1]/preceding::select[1]</value>
+      <webElementGuid>3722e759-a9a6-450a-b501-49c70749b785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngành nghề mong muốn'])[1]/preceding::select[2]</value>
+      <webElementGuid>68601f45-df42-4945-8d0c-52150a2da851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>ec4bace5-7ab7-474f-9446-04f661bfd2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '...Nhân viên toàn thời gianNhân viên toàn thời gian tạm thờiNhân viên bán thời gianNhân viên bán thời gian tạm thờiNhân viên hợp đồngKhác' or . = '...Nhân viên toàn thời gianNhân viên toàn thời gian tạm thờiNhân viên bán thời gianNhân viên bán thời gian tạm thờiNhân viên hợp đồngKhác')]</value>
+      <webElementGuid>213c1a45-a356-4488-a1dd-dbe9e219c3a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

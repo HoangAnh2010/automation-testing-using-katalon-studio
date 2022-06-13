@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mt khu khng khp. Hy nhp li</name>
+   <tag></tag>
+   <elementGuidId>e9380513-e71a-48fa-91dc-5c7a1b4a8e9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='invalid_password_feedback']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#invalid_password_feedback</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1de9a9e-0d90-44a8-bb31-10928adcb874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback</value>
+      <webElementGuid>74cfa0f9-1e58-4eca-97e6-11ea3f158f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invalid_password_feedback</value>
+      <webElementGuid>a2acb111-b28f-46b0-a725-222655aa31bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Mật khẩu không khớp. Hãy nhập lại
+</value>
+      <webElementGuid>cbdbd4e8-6ab1-4f5d-a871-d3de7b8d75e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invalid_password_feedback&quot;)</value>
+      <webElementGuid>2f73656e-ac53-4211-89f2-52e82144a011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='invalid_password_feedback']</value>
+      <webElementGuid>4f8bd37e-5618-4fb1-886d-ce0be268f68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='register_form']/div[3]/div[2]/div/div</value>
+      <webElementGuid>37bb985a-afd2-4c92-a077-58fb329077c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email không hợp lệ'])[1]/following::div[5]</value>
+      <webElementGuid>814e36af-c69e-4cd8-990e-2cce27989e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chúng tôi vừa gửi lại link kích hoạt đến email này. Hãy kiểm tra hộp thư.'])[1]/following::div[5]</value>
+      <webElementGuid>6d211601-1f3b-448f-baf1-8fb0b9729ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiển thị mật khẩu'])[1]/preceding::div[1]</value>
+      <webElementGuid>00483734-6944-4e59-80ab-482e8f5bcbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhận bản tin việc làm'])[1]/preceding::div[2]</value>
+      <webElementGuid>4654e903-2186-4e54-9968-a034874bbcb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mật khẩu không khớp. Hãy nhập lại']/parent::*</value>
+      <webElementGuid>7b6099cc-3d8a-425c-b7f8-d6d1742a898b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>5fbab12f-48ee-4f7e-baac-8c7175868c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'invalid_password_feedback' and (text() = '
+Mật khẩu không khớp. Hãy nhập lại
+' or . = '
+Mật khẩu không khớp. Hãy nhập lại
+')]</value>
+      <webElementGuid>c5fc8752-79ae-4ede-827f-8182edc8fa70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

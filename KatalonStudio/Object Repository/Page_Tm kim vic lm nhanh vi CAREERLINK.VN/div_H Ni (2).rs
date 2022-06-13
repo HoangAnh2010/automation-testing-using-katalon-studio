@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_H Ni (2)</name>
+   <tag></tag>
+   <elementGuidId>65633490-66e5-4b3b-882e-1c5dba6fd815</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Hà Nội']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da81b76b-3fae-49b4-afb0-0f76a93cc89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1e1cd497-9477-4831-b5fd-f8fb53dd1fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>efb31d9d-4b55-4ee9-bebf-1ef1c048c4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hà Nội</value>
+      <webElementGuid>48334324-38f3-4c97-836c-b13f50e993e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_nav_search&quot;)/form[@class=&quot;d-flex root-0-2-3&quot;]/div[@class=&quot;mx-1 fieldGroup-0-2-4&quot;]/div[@class=&quot;cl-autocomplete form-group dropdown show&quot;]/div[@class=&quot;cl-autocomplete--menu dropdown-menu show&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>ef5b5ca3-7fec-4419-9c4e-964e8d0e9021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top_nav_search']/form/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>5433df99-98be-46fd-9fcc-73bd632aa000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ Chí Minh'])[1]/following::div[1]</value>
+      <webElementGuid>60edbcec-ab6c-4f2b-82fa-5d1a4f8ea245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đà Nẵng'])[1]/preceding::div[1]</value>
+      <webElementGuid>85fefbe8-9edb-4d1a-8476-d8809b8542a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An Giang'])[1]/preceding::div[2]</value>
+      <webElementGuid>b6e0c244-39bb-4825-b681-0ceb7eeb3fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hà Nội']/parent::*</value>
+      <webElementGuid>a33fc9c4-5eb3-44b7-bc57-98f74b997846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>c6275a60-f1a4-4b81-b034-345d9beea174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hà Nội' or . = 'Hà Nội')]</value>
+      <webElementGuid>95a0e994-5fca-40bd-bc06-2e6821cbdf2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

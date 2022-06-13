@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AlternativeFlowDaDK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>001084d4-8294-4f80-8963-a63c40d1f58a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8aadb01-4e63-4ff1-bd63-ea89f12bd88b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b05fe9c0-25c8-4521-a3ee-6cde17d43b55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07748b49-ac98-4c09-bc2d-eaf843970852</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cf258c9-05dd-43a5-b211-3240073b5556</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94dcd9d1-ac33-49a4-89ad-a18acf5aac1a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Họ và tên</description>
+      <id>e8aadb01-4e63-4ff1-bd63-ea89f12bd88b</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Email</description>
+      <id>b05fe9c0-25c8-4521-a3ee-6cde17d43b55</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Mật khẩu</description>
+      <id>07748b49-ac98-4c09-bc2d-eaf843970852</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Nhập lại mật khẩu</description>
+      <id>8cf258c9-05dd-43a5-b211-3240073b5556</id>
+      <masked>false</masked>
+      <name>rewritepw</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Kết quả</description>
+      <id>94dcd9d1-ac33-49a4-89ad-a18acf5aac1a</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

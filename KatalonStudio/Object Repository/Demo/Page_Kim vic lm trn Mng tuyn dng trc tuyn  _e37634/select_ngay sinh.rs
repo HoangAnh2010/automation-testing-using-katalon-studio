@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ngay sinh</name>
+   <tag></tag>
+   <elementGuidId>e4352030-7282-4488-931c-6fd521f51717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/form/div/div/label[2]/div[2]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>04e22dd6-3c74-4229-a5a0-f90c3487070f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control cl-scrollbar fluent-form-control </value>
+      <webElementGuid>fea736d1-fbde-48d7-97fc-b69cf47cdf20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...12345678910111213141516171819202122232425262728293031</value>
+      <webElementGuid>962d5c01-c062-41a0-bef2-08eb62bf1752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[@class=&quot;personalDetailsFormInput-0-2-7&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-7&quot;]/label[@class=&quot;w-100 mt-3&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-3&quot;]/div[@class=&quot;fluent-select&quot;]/select[@class=&quot;form-control cl-scrollbar fluent-form-control&quot;]</value>
+      <webElementGuid>0aa687fc-3505-457e-9401-20e808db8aa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div/div/label[2]/div[2]/div/div/select</value>
+      <webElementGuid>ba5ae2cd-4e3d-493a-a1e8-98bdb32c9ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>94968228-6b5b-4b88-9408-62faf9eca2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[3]</value>
+      <webElementGuid>c55df63c-7a66-4ced-a94a-8f302bd707ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>790c4348-bfe6-4fc4-91ea-2630f4dd1b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '...12345678910111213141516171819202122232425262728293031' or . = '...12345678910111213141516171819202122232425262728293031')]</value>
+      <webElementGuid>12b0b17e-9d85-470c-ba3f-9c2ee54869b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

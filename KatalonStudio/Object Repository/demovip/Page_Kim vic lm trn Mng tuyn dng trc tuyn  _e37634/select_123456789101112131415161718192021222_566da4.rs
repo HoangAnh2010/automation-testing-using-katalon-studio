@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_123456789101112131415161718192021222_566da4</name>
+   <tag></tag>
+   <elementGuidId>496a00c1-2508-454a-813b-bf17b0639e3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/form/div/div/label[2]/div[2]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>17837f20-ac96-47ad-ac18-c908f80c557c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control cl-scrollbar fluent-form-control </value>
+      <webElementGuid>2be59d0b-a814-436d-9e5f-a3c68cbdd41c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...12345678910111213141516171819202122232425262728293031</value>
+      <webElementGuid>30041979-0038-4248-8565-2a903652cc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[@class=&quot;personalDetailsFormInput-0-2-7&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-7&quot;]/label[@class=&quot;w-100 mt-3&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-3&quot;]/div[@class=&quot;fluent-select&quot;]/select[@class=&quot;form-control cl-scrollbar fluent-form-control&quot;]</value>
+      <webElementGuid>edd6d120-ae90-4619-8e6e-fd564381d598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div/div/label[2]/div[2]/div/div/select</value>
+      <webElementGuid>cc41058e-f066-4a78-a48f-a85b5832469d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>35036980-a5bf-44b0-a9d3-4155abefb142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[3]</value>
+      <webElementGuid>88faa9e4-e4b6-4b43-895e-b94c39705bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0554a122-52a9-4ae2-8e2b-85e17f4d79d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '...12345678910111213141516171819202122232425262728293031' or . = '...12345678910111213141516171819202122232425262728293031')]</value>
+      <webElementGuid>41d54d2d-f5c8-45f5-b5d5-3a740e6bfa9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

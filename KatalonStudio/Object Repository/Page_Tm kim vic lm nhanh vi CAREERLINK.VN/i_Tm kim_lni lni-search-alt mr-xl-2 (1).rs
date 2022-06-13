@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tm kim_lni lni-search-alt mr-xl-2 (1)</name>
+   <tag></tag>
+   <elementGuidId>56050503-8593-4d71-9136-84a10437ac7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.lni.lni-search-alt.mr-xl-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top_nav_search']/form/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>277cb4e4-3c73-4a0b-b92f-eb7eea1a74d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-search-alt mr-xl-2</value>
+      <webElementGuid>9c8ed269-3b45-413f-a661-8553ae090912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_nav_search&quot;)/form[@class=&quot;d-flex root-0-2-3&quot;]/button[@class=&quot;btn btn-primary mx-1&quot;]/i[@class=&quot;lni lni-search-alt mr-xl-2&quot;]</value>
+      <webElementGuid>c8c7321d-ee12-4e3e-8783-42482568da98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top_nav_search']/form/button/i</value>
+      <webElementGuid>1284eab4-eacb-41f7-b882-bcacf9bc2709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>077ee753-e883-4d7a-9384-53e73daba04d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

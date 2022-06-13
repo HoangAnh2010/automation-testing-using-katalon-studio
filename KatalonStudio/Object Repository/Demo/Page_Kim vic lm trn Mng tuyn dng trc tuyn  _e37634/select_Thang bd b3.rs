@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Thang bd b3</name>
+   <tag></tag>
+   <elementGuidId>b9debd9a-df98-447f-ba60-2417d6e405ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/div/div/form/div[4]/div[1]/div/div[1]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a8724fec-3c39-451e-91a7-01cb3b964d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control cl-scrollbar fluent-form-control </value>
+      <webElementGuid>4b18bbe2-dc26-41b8-8720-04780dd5dbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...Tháng 1Tháng 2Tháng 3Tháng 4Tháng 5Tháng 6Tháng 7Tháng 8Tháng 9Tháng 10Tháng 11Tháng 12</value>
+      <webElementGuid>139b5ee6-5bc8-456d-9c9e-25a49126b381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/form[@class=&quot;personalDetailsFormInput-0-2-7&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-7&quot;]/label[@class=&quot;w-100 mt-3&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;fluent-select&quot;]/select[@class=&quot;form-control cl-scrollbar fluent-form-control&quot;]</value>
+      <webElementGuid>f2dcaa0c-0fd0-44d7-8ded-22ffdff4e97e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/form/div/div/label[2]/div[2]/div[2]/div/select</value>
+      <webElementGuid>462f05d2-b8fb-4a53-b59e-87f9f361f487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[2]</value>
+      <webElementGuid>72d22f6f-2d04-42aa-83b5-92e88e528c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[2]</value>
+      <webElementGuid>aa361541-4540-405b-8237-43f7671af683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>306440b3-fa13-4b1a-a535-9a03800f98c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '...Tháng 1Tháng 2Tháng 3Tháng 4Tháng 5Tháng 6Tháng 7Tháng 8Tháng 9Tháng 10Tháng 11Tháng 12' or . = '...Tháng 1Tháng 2Tháng 3Tháng 4Tháng 5Tháng 6Tháng 7Tháng 8Tháng 9Tháng 10Tháng 11Tháng 12')]</value>
+      <webElementGuid>04976509-b3cd-46c3-b7b8-dc068e707df1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

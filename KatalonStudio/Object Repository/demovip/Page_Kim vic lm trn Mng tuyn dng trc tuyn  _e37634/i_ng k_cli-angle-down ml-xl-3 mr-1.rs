@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ng k_cli-angle-down ml-xl-3 mr-1</name>
+   <tag></tag>
+   <elementGuidId>b0c8cc43-b9c4-47d6-aff0-f55ec0c85250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='profileMenu']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.cli-angle-down.ml-xl-3.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ed22b5fa-e1b8-42d6-b3ef-96ec416b1188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cli-angle-down ml-xl-3 mr-1</value>
+      <webElementGuid>2895f281-cc7a-432a-97a4-3b492e59404b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileMenu&quot;)/i[@class=&quot;cli-angle-down ml-xl-3 mr-1&quot;]</value>
+      <webElementGuid>b1e820c4-0981-4975-964c-535be5cff758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='profileMenu']/i</value>
+      <webElementGuid>c84e6fe9-4354-4328-9ab8-77cfcc9d9e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/i</value>
+      <webElementGuid>b1061cec-d921-4e3c-b9b7-50010dc3a1fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

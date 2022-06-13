@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SignInEasy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f5e113c1-f2ab-41e9-8914-2c5b553e9c0e</testSuiteGuid>
+   <testCaseLink>
+      <guid>8d8b4b70-f79d-44a5-a8c3-c0b14dd1290f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Signin/TCFail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a31aa321-6b1c-4ebc-bff5-11ed54089a41</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Signin/Data_Fail2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a31aa321-6b1c-4ebc-bff5-11ed54089a41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fd563b23-aaa1-4693-b9d6-bd9194b5095a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a31aa321-6b1c-4ebc-bff5-11ed54089a41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Passwword</value>
+         <variableId>8d94c0ca-5f26-4946-ac75-2cca66d49264</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a31aa321-6b1c-4ebc-bff5-11ed54089a41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ResultF</value>
+         <variableId>88eb0883-0131-4110-8583-dee91520e26b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9414697a-316d-4f5b-972b-82941e25ce78</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Signin/TCPass</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8b5288d8-5111-4678-afe8-bf6fd77ce94d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Signin/Data_Pass</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8b5288d8-5111-4678-afe8-bf6fd77ce94d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>402f4ceb-a861-468a-bb3e-8dc99163a797</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8b5288d8-5111-4678-afe8-bf6fd77ce94d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Passwword</value>
+         <variableId>4a99e3af-f530-4028-9402-2e84d3f4e642</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8b5288d8-5111-4678-afe8-bf6fd77ce94d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>aba788f9-c8bb-4965-afab-676e656d74af</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nh tuyn dng c th tm thy h s ca bn trong_1fe79b</name>
+   <tag></tag>
+   <elementGuidId>293ddde4-53a4-4907-9979-517d2605b791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-edit-container']/div/div/form/div[3]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f339153-e42e-4b2c-9626-87368cc15b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>b1094de2-13ea-46b9-b9c8-f296c1553f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-edit-container&quot;)/div[@class=&quot;d-flex flex-column align-items-center&quot;]/div[@class=&quot;container-0-2-51&quot;]/form[@class=&quot;search-config&quot;]/div[@class=&quot;search-config-option&quot;]/label[@class=&quot;fluent-radio&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>4f07ea86-cccb-4e5d-b21d-22965d4455c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-edit-container']/div/div/form/div[3]/label/div</value>
+      <webElementGuid>dc11bd15-48b6-4f34-accc-7640985dc470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/div</value>
+      <webElementGuid>ef320ab8-8e3d-4259-8cb6-79b7bb075caf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

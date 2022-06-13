@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_xxxxang ch</name>
+   <tag></tag>
+   <elementGuidId>048cc6ea-8489-469f-98ab-3b2f7f5a5c92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div/div[1]/div[2]/div/ul/li[1]/div/div[2]/div[1]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.resume-link.clickable-outside.text-decoration-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d21cd570-71a3-413d-aeae-e843fc219e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>resume-link clickable-outside text-decoration-none</value>
+      <webElementGuid>99927fe0-1ee0-4bf5-8a1b-8242d3eeda38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>xxxx</value>
+      <webElementGuid>34cb4a2a-0766-47a1-8623-01bcf8a5fc35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nguoi-tim-viec/ho-so/7545529</value>
+      <webElementGuid>fca755d0-ef2a-497e-8d84-42d88ebd427d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>xxxxĐang chờ</value>
+      <webElementGuid>c716558d-1639-4bd8-b2e3-bfb3fbe7f21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;my_careerlink_controller my_careerlink_show_resumes job_seeker  resumes-loaded&quot;]/div[@class=&quot;container mt-lg-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 px-0 px-lg-3&quot;]/div[@class=&quot;resumes-container&quot;]/div[1]/ul[@class=&quot;list-group list-group-flush&quot;]/li[@class=&quot;resumeItem-0-2-57 list-group-item resume-item position-relative px-lg-0 py-md-2 py-lg-3&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body d-lg-flex pl-3&quot;]/div[@class=&quot;mb-3 m-lg-0&quot;]/a[@class=&quot;resume-link clickable-outside text-decoration-none&quot;]</value>
+      <webElementGuid>c2566ade-bde6-4b25-87fe-2525398f5af3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/nguoi-tim-viec/ho-so/7545529')]</value>
+      <webElementGuid>0e262926-2761-4687-9591-0978729cc1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>06e22b1a-679d-4d86-bf18-ec61d0ada373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'xxxx' and @href = '/nguoi-tim-viec/ho-so/7545529' and (text() = 'xxxxĐang chờ' or . = 'xxxxĐang chờ')]</value>
+      <webElementGuid>49862a7b-8d1e-4000-bdfe-26c3818d7c02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

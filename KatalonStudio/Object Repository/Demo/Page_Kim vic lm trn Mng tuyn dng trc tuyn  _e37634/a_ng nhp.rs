@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng nhp</name>
+   <tag></tag>
+   <elementGuidId>fcfe5f43-95dc-4448-bb75-8f069461e6d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.mx-2.signin-button.px-5.py-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='top-navigation']/div/ul/li[5]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d93d3894-0c19-4732-82ea-affc9d812407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mx-2 signin-button px-5 py-2</value>
+      <webElementGuid>f931c5cf-0e62-452e-a260-0b6ae1eeb305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f4cdc70-1236-4ac8-b380-72244da0aa65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nguoi-tim-viec/login</value>
+      <webElementGuid>98db65c8-d0cc-4017-bcc3-86ffced578e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>e3caeebe-2c89-457d-83be-ca1b5a6d417b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right profile-menu shadow-sm p-0 show&quot;]/div[@class=&quot;content row no-gutters px-3 py-3&quot;]/div[@class=&quot;d-flex col-12 justify-content-center mb-2 font-weight-bold&quot;]/a[@class=&quot;btn btn-primary mx-2 signin-button px-5 py-2&quot;]</value>
+      <webElementGuid>35f54076-08c9-4363-afe8-448daaff406d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='top-navigation']/div/ul/li[5]/div/div/div/a</value>
+      <webElementGuid>6f0825a0-f578-4ccb-bf55-c6f320a324f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng nhập')]</value>
+      <webElementGuid>583a7ebc-7f1a-4d91-97d1-2a2cf07ecf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::a[1]</value>
+      <webElementGuid>8ea2a6ac-6521-4bf3-b570-d39807acd3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[3]</value>
+      <webElementGuid>7e9a3749-6ad1-402b-a932-f60e8d21cfa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[2]/preceding::a[1]</value>
+      <webElementGuid>f7889bee-9f93-4831-af11-c8c69b58b164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ xin việc'])[1]/preceding::a[3]</value>
+      <webElementGuid>e9eebdfa-6f04-4417-bb37-1d90b46037ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
+      <webElementGuid>c0c0a8ff-49ff-40c8-ac10-8539ee646f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/nguoi-tim-viec/login')]</value>
+      <webElementGuid>84bf3e80-fb47-494f-a976-aea3d5e6099f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/div/a</value>
+      <webElementGuid>222e9bbe-47e7-4bbe-8da3-b7f463349fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/nguoi-tim-viec/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
+      <webElementGuid>67501abb-0872-4c59-87a0-34574128a110</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

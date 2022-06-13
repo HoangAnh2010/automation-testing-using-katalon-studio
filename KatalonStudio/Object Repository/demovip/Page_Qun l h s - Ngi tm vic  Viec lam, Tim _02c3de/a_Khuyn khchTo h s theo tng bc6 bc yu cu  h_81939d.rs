@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Khuyn khchTo h s theo tng bc6 bc yu cu  h_81939d</name>
+   <tag></tag>
+   <elementGuidId>ed920a96-0437-4165-ade7-b7dc71833d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resume-choice-modal']/div/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-decoration-none.shadow-sm.border.d-block.p-3.h-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d619c07-0e0d-40a3-ad5c-80e4a7d52da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-decoration-none shadow-sm border d-block p-3 h-100</value>
+      <webElementGuid>a75d3908-9ae9-4819-8a8f-673ebc3d08be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-turbolinks</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>77852e51-eff6-4043-b816-81bc9dba594e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nguoi-tim-viec/ho-so/moi</value>
+      <webElementGuid>bc260e6e-0998-4c95-b42e-f59bf7ddf9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khuyến khíchTạo hồ sơ theo từng bước6 bước yêu cầu để hoàn thành việc tạo hồ sơ.Theo từng bước định dạng sẳn để tạo hồ sơ với thông tin chính xác.Cơ hội để các Nhà tuyển dụng tìm thấy hồ sơ bạn cao hơn khi sử dụng hình thức tạo hồ sơ này.</value>
+      <webElementGuid>c0a3073b-2d22-4569-abe4-15ad7ba9c351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resume-choice-modal&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body p-lg-4&quot;]/div[@class=&quot;row no-gutters position-relative&quot;]/div[@class=&quot;col-lg-4 p-2&quot;]/a[@class=&quot;text-decoration-none shadow-sm border d-block p-3 h-100&quot;]</value>
+      <webElementGuid>40e4c612-c3e6-4270-ac7d-8fca2850343d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resume-choice-modal']/div/div/div[2]/div/div/a</value>
+      <webElementGuid>04b7a3b0-fecf-4f39-893c-0e037c4748f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạo hồ sơ xin việc mới'])[1]/following::a[1]</value>
+      <webElementGuid>a9cfdd09-99b6-49b6-9cab-67978fd2a294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đã n.đơn'])[1]/following::a[1]</value>
+      <webElementGuid>36015238-3ee0-45a3-bb20-17bf141fbe0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/nguoi-tim-viec/ho-so/moi')]</value>
+      <webElementGuid>d3ca4776-46c5-4b13-a2a1-bb0f133e661b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/a</value>
+      <webElementGuid>4c89012b-8980-429d-a16d-257d52a389b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/nguoi-tim-viec/ho-so/moi' and (text() = 'Khuyến khíchTạo hồ sơ theo từng bước6 bước yêu cầu để hoàn thành việc tạo hồ sơ.Theo từng bước định dạng sẳn để tạo hồ sơ với thông tin chính xác.Cơ hội để các Nhà tuyển dụng tìm thấy hồ sơ bạn cao hơn khi sử dụng hình thức tạo hồ sơ này.' or . = 'Khuyến khíchTạo hồ sơ theo từng bước6 bước yêu cầu để hoàn thành việc tạo hồ sơ.Theo từng bước định dạng sẳn để tạo hồ sơ với thông tin chính xác.Cơ hội để các Nhà tuyển dụng tìm thấy hồ sơ bạn cao hơn khi sử dụng hình thức tạo hồ sơ này.')]</value>
+      <webElementGuid>1162254d-dfaa-4a63-bb16-d4b5101a70bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

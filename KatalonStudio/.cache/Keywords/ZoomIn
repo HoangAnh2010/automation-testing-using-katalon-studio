@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "A8F869990598B646A4C4B9067637B5A0",
+  "keywordClasses": [
+    {
+      "name": "myKeyword",
+      "keywordMethods": [
+        {
+          "name": "zoomInBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeBrower",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

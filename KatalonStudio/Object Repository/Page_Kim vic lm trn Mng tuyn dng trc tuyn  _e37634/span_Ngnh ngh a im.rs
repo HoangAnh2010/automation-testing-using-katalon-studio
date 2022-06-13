@@ -1,0 +1,4465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ngnh ngh a im</name>
+   <tag></tag>
+   <elementGuidId>791737a0-cc12-4519-ae03-399e29907a19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='top-navigation']/div/ul/div/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c33120e6-aad0-462b-aad1-dfcafb71ffa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>44846a86-d444-4bf1-a94b-e55b8adeac31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>68bc4134-325e-4a64-9438-9d5f8ebd7cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db8d3c11-c522-4c6b-94d6-f955c8245905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>42f4940a-6b0f-4135-80d0-a546404dd78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ebab46c7-6269-4597-a75a-4812e814df12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4d83d0b-da29-4ac0-b81c-256ad9bc3318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>480b5aad-214d-46ac-aa42-dbc4e596dc31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>07394600-78a4-4bf6-b435-e752213fb987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9200788d-9507-434f-a630-43cbefd2a021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>21a6d6ad-f69d-4fc3-906d-0e6cf3d15190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>6f617485-c2f8-4251-9761-1e0793edd2be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed452454-3d04-4513-aa5c-4f40c6e588a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>fff49c2e-4048-4ac9-96b9-1189f4539b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>7ed54dbd-7f86-45a9-98d6-bf7f4357ca32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>95551010-3b2f-4331-bae1-4bea6f3eb98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>653b008d-6360-43c3-a089-54ccd578ee6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>7a4de4a0-80bd-4f63-b978-0362fb9a5833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad07e1a7-569d-4f19-b82c-60670754a6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>d9697f64-06ff-4f6c-babc-550ac6b4db84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>14427610-19b2-4f12-97e3-d12db5784d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a574a83d-7d62-48f6-a908-be1aeb44e467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6302d690-555e-456c-b8f1-518027d75ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5de3c03a-d7ef-412b-95fa-0caa36d60a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0846bdaa-58b9-4c66-8943-8edacc6cd7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>0e91552f-190b-438e-b21d-2addf2eb5d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>93e95507-8eb8-4b35-bf20-8698fc19c6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e5d2631-33d5-49f2-9e38-c4a94b2e5f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>c19a6a4e-c535-4b8c-b0a8-2a2b9d5f534f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0090ed19-d584-4cfc-beed-9a6686fb969d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>effdb90f-0b0a-4895-b57a-9ff402b94dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>fcd18253-55f8-43bc-8a33-a1cb6da770d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>4c635b29-6ca6-467a-a8a8-2d8e491794a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7145648-c375-4e3f-b8ca-66a3a023f27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ab1fe7a3-c97c-49ab-8dc0-741aa8435e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>fe7a5df9-6dc7-47c4-9af0-cfd4c031080d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8798f56e-b1e3-4b65-9d32-851ec939c5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>7dc283c5-5cff-443d-9afd-df0004a21361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>2b64d3a1-7121-45a9-9e0f-fbcffd23cfe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7e9792c-63e4-4fc9-924e-71c5412a304d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>11d7ae69-5139-4707-a732-1dde2fbeb0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>3d8413c2-f073-4c9f-ad85-c44e12cf487b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d244fd73-8218-4045-8c33-72c3115eb866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8c5fbd6b-3b1c-4c10-9771-684613510dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ed17118c-d683-449e-9963-58277ac7133b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2936cfe5-dd35-4238-93c7-0b195986f71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>9b7672f6-9844-4659-91cf-102a492c9aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>227a2e0d-bb3c-417b-bd5d-b7187b40a7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0aa24865-4411-45bb-8edb-cd45b87a083c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8d328164-105e-43b5-8ef0-1fe0782f35b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c62f081f-9dd9-44fd-a4bc-e020f00860d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7677441-ad67-497f-8caf-514197f8996f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>d395b3c6-385e-4b70-8505-57c351c2d4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>3a7ce4b1-b992-4212-ad18-b9f42b0f521a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92dd39f6-e571-49bc-b8f5-3926a62a76ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ff239ebe-8600-4187-b976-04a6853d942e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c98251a3-81f0-49be-adca-b6fa27828a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4614a4b-5b49-46f9-9d8a-edd9d832c9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>64f5f3fb-8f01-444e-a0b1-67146d6ca89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>9f7a05d2-6e02-47c6-9a1a-995a54894c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8bc9eb3-d52d-4f8d-ab59-9c0edd621fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e84dcdf7-578f-4128-a428-50268c748c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>60963142-cded-4198-b135-55350b2ab4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e74c835e-1bf6-4883-9e67-c2dc45f33589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>178b4ed8-2522-41e0-bd14-2bda127e0870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>fd6d9e7f-3d2e-4317-8f49-83f070fa55e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d44be7fd-5e59-4bf2-9d30-0165fc549ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1123452e-c59c-40d6-8f65-f2879c76e84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>cfa19437-ef40-4a3a-a171-d71bc5ff3287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>442e4716-5a12-4541-a0c6-50178dd88b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5e6dd8c6-9305-42a3-b8bd-2b1bd32efe9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>cb006d0c-2a96-4211-878d-3c2e9864d5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c64899fb-bd15-4cb0-953d-75c9d7746a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>9700ffac-e665-439f-8fdc-2a86d5d0f887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8188dfae-d16f-4ca0-afa9-51473e4c0f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96296041-574b-4c11-ae09-3d87e00ededa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>075c6e7d-bd94-43d7-acbd-61c956686bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8bb2ea74-497e-4eda-9187-492567de2d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dfb4b910-a9de-43bd-a400-b2d58afa41c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>25209d57-75b4-4d10-ade2-2329806ef528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f71e87b2-99ee-48ff-8d47-55c11d6e0d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52e9bf2a-0a36-428b-ad08-e279a4c90dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>422e86c5-daba-45e3-92b1-2636540cd385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0fd95cc8-056d-414e-8617-cd8eae411cd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9294b1f7-4bdf-4808-b056-cf2fb85494d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>cef86f0f-0f5c-496a-97f9-835a0a399624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>14c9c0d9-d5c4-42af-a88f-b7aa90e6ddda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7a60a37-eea6-4b03-a4a5-bdda7377b509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>3b34cad4-1f77-4d01-83fb-0e82a51867fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b100d9ee-2a5f-46aa-9963-16691e8202c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6caf9690-bd16-4c9d-a5ad-ce702c5a1099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1f3e06eb-490b-445a-8f48-c400971404e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0f6b1108-614e-4863-80c1-54be49582681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e0df4a1-5981-4bc8-ae29-25c53420cf78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8e26f46d-372c-40a8-a80e-1080a4c4cb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b35cf131-d6c0-4066-aae4-3be9677328d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7fa6d553-7f02-4f61-89c9-4fd7b16017a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>12b73a94-1c76-4039-b3c2-126b5ecc74c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>dea97626-4ed7-4d65-800a-ee63d145ff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>037e3741-bb7e-4068-84f6-e0ee16c486c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>3ade4c20-f253-4d3a-88eb-e6ff9db2b7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5be98640-1366-4214-bf4d-f874c8a3fca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8bcd39a1-b254-44df-9cf5-d1d83d2d618b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>356730ea-1d2f-4a73-b6bf-dba8831465b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ed731143-e5ba-434b-a955-cbf031728acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2eeb3d61-8b0b-4786-94df-a67d81c81d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b6ee154b-b3ff-40f2-8fc1-3a59e91a60a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>63ae00c0-d37b-4ca0-a1ab-3fdb64f346da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de2f8511-e951-47b9-80e6-3741857c0a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>91fc70a9-6d3c-4acd-ab2f-037b45bd77a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5438e76b-e501-48d1-8c8e-e7229b922a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f95d761f-eeda-4dfe-9f3b-b1522173aa70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ae095a79-ecad-4f7a-a742-845d20655926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>7eb570ff-a949-45bc-885d-5cbb7016cee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8686c7c3-bc55-4083-a748-056b10d78a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>56e7e88b-dc97-44c6-b939-f46c8d42e2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1ca85901-d6a4-4386-89b2-7897d886ae6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85cb4fd1-c9e1-4806-9b08-d6dcede94222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>039defbb-484d-4c45-9b9d-d30287510093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1cb1bb3b-7670-4453-ae04-c34e204d18a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cdd96cd-ee0b-4ea1-9ae4-7aecd755e169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e60948b0-b681-4984-8e09-f81db258b1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>381abf4d-70c1-47d3-9233-5b51010ac3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26873167-05c2-44b3-ac24-e02c00617af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a716034b-f7a4-4eb2-8b7e-4c2a0ec598b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5666daf8-faf6-4e71-841a-a31ad52de931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac20b348-55fd-4ebd-a5f2-e0cebd7219ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6db5bb6f-f54b-4c86-9939-f0b93863dca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0621efbe-a781-4268-b6cb-e6138296a4f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4422c2c6-6cc1-4249-899f-525ca8e0faa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6d9ac09a-4574-4f9a-a956-1969540d68fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>eae05c80-c3d0-4581-9ede-807b3e90afa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1497f51-a4ea-4401-93f6-a63fa62377af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5d7acc93-44a6-4743-a624-44e1cb3189bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1d62c396-cf45-4d47-a1ff-584392351a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c4f8389-77d8-4ad3-aefc-32837f6d60b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a2e3924c-1bc9-4fc7-8f47-620d76143bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>60e1a9fb-9d11-4e8f-9f06-9523f6068a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b60d43ac-8026-4412-8f6e-697782f3d6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>11e77793-1b0e-4c2e-a4bc-18a0814c3fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1f536ed3-8fc4-4f30-9a07-0528891bac08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1971c903-ed1d-4930-b13e-da411b313b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>da74058d-e752-4feb-ac0d-dc6a93468865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>110238bc-6dd4-4e9a-9fa4-90dfc5986979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c65b3f8e-519e-4172-ab4f-1e8e40ab06be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8854b273-42db-4999-a20c-0423f4845319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>436298e4-1c53-45f0-8a4e-a7cd1b3b7be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d46d7eb5-e9c0-436b-b3ec-71ea674a3042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ea9aafd5-ccd8-4a73-bc3c-7292481eb5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ee9e8392-1d1b-4145-863e-627d889f821d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fde26fc3-be72-4e94-9bb7-4256a5bdea77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>dc60dd61-4de4-456b-ba70-f0eaf8e26abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>cabe00e9-b3ad-4b54-bf59-4e04cb0f60aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da3f9e7c-e791-4964-ae75-5602b70783c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>54d2e993-bbb9-44c1-9cf2-7104f8ea6ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>aa21d40d-9a17-4f98-bad9-01f07e70be69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b534d395-f348-4406-a75b-30ffa44c2ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>674f893c-9234-44a7-9772-9b0178fc4bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>6a1b9ee7-457a-4f11-b207-708dbec8f908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf6e9588-4fd8-4d99-8953-49931fcb4491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e2552a82-2dfe-40d6-9e1a-8f16131c3626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>9da18f39-dea4-4218-977a-2258086ad38d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c6abe031-8039-466b-b2f5-d0908ad8f592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>60961cea-9a4a-4539-a004-6f4c714ed747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>e1df6977-5128-4c02-a851-19d413bcbc09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31335a50-7152-4f3c-abb5-61c5636c055e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>61b374c2-3dd2-4bb0-b283-4b4033a9d2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>a101fa4f-7a36-497a-afe5-3d172a913cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e718b18-853e-411a-9818-f22f6f650dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b349cd22-1260-4ba0-9b13-b534812bb58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d61712bb-a37e-406b-8983-74209061ae02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53462583-20c5-473f-954d-d13fa06d24ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5fa96299-7758-4286-87bb-dad193d56130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>2289fb09-be20-4112-93d0-f584ba109497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>521ad451-86be-4941-8167-272e7e1ca53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ff0093db-b2d4-4656-b51b-245a1c3477cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8bfe121f-11b4-4661-8e97-b660af1d35d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8750870-67bb-4504-907d-19b523a75670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>f4e98176-97ef-4da6-b1c1-bb141030e46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d081fa1c-9f76-4967-b7e1-2fc6c28c7af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>786ee198-58e4-4806-adc0-e445a8202118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>4dacda68-45f9-4e10-8710-5cf77f2331bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5e1b3170-cb21-4b2c-956c-8e24b50da31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a42b45f2-213b-4b7e-92bd-0626b4ff7910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>186f9119-766d-49a1-9eae-cf91dbe171c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>2ae6ebd9-dda8-419b-8ac8-fc16c30df4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc0906ac-ead0-40f0-a7b5-c0f6146ca501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b477faa5-fa0e-44fc-b9cc-ec605308a70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>25ca85af-61e9-4f7e-9f37-9ce36dc324ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2542fb32-d4cc-4f44-8bda-137c7445a261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6a0c6877-ed71-4f80-aa8a-216c9b68c0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b2be4707-cecc-4596-ada1-032caf246b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1103f8a2-cb07-4862-a41d-4c49faa38cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>727f195d-2e62-42ae-a475-c950cdd8927d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>367890d3-78b5-4717-8152-0ce85c88d2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>294c237e-dd84-42a4-ae8e-9d2518a507ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>d2f48007-a4b9-4307-bb28-62b569d8561e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b7235ccf-045d-41f5-889a-b812ef284f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>71e42abf-8f45-470c-be08-c3c2b83486d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>7a15da67-5f18-470e-9587-38101a350a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>89087299-f796-4c4e-847f-e01918d73e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dc087a17-a4b0-4534-883e-0469cc0ebb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>7279c79b-b4bd-475f-b545-9115971e503f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>536c0626-c5ca-44bc-bbef-65f3d0d1eb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4ced45c-b7c9-4d21-a564-fb6d3f5e62af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a7073628-1b90-40d9-8b72-15675605416c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>628b5b5e-99e9-44a0-8542-82dcb4cd7dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fc0ed7b-7550-49e8-9471-cee802e4d4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>233a511b-8005-4684-b92f-7c9ba6477940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ca9a3913-d5c5-4db5-8304-c0f802ea9377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5a30fdc-fa09-4458-a463-72c9b7d0a204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ad878523-0c5b-4326-9a83-abf6a7886e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>02d1cc52-e3a4-4879-9379-c024c9ccbd51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27910615-aae6-4181-818c-3fc060f0cf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>63d22701-aff7-4927-9890-406254d5593a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>44aeeb42-b3d0-471d-92c0-71717d633f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8eb0940-dade-4ef2-8c9a-a214d430a08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>73dfb482-6b11-4c2f-80b2-c2cc29c82812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>306a6602-452a-401c-ba4a-b4f2b41a3581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b53bf30c-869d-4ff9-b88e-fca759bc5639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e2046622-d0e7-4407-b932-3bb7240b993c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>43320858-1b22-4fdb-b3cd-e2b4c7167f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce7f62fe-2750-493b-bc70-2b59b6565109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>19171676-aaa5-4171-baee-482fe36f5053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>060362fa-6a71-44c9-91ab-445280fe75e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3494a3bd-0ce1-48da-8ba4-afcd3808329f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>33140660-9f48-49d0-9424-24f7a0f51099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>fbad91c2-2946-45a1-bc9b-713e1e3df02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e318ddc-5ace-4ea8-81de-93d7d8522afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>3751422c-4f35-4c56-876b-75a98b07f104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8bf6e402-6818-4805-a935-084432c5c71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca6afe04-e238-4a65-9c3b-8615b09854ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>41f7e7b1-e08e-4efa-b200-34e4f58b702a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>470ca1f1-8396-45f7-98b4-96608d57da5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e4d85bf-ef7c-48a7-85c6-ba9d8d248127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>70e3b719-e087-4e47-9061-20c9ca459816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>3f6e0af1-5193-4575-bad3-2669e80c19eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf01ecec-ae82-4418-9565-2daa5560255d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1749691f-5ae4-4f38-b08f-e1b2f1b7ac6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ac3f7b6c-f35e-4021-8746-00a8af48b603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0452968e-1227-42c4-b8ab-69f64455e965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>145693c2-c07d-4447-be44-e2c8d6fc505a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b2e857c6-12fc-450c-a084-6f5db6cd385b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f28090fb-5420-4d9e-9668-44d88297dab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>35c3bab5-1e33-45c9-96ce-5b363317afad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>bc204e97-ed2b-425a-8bff-cfb1a8400ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c71bf32-1132-4104-95a0-c516836c75fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8187aefd-ae74-481a-943f-a25828133352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>75a90320-0f42-4437-b15c-0344224a64e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1d48115-b937-47de-b995-782af0ab702d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>880223f9-01b7-424d-8aee-9dfadfe0c95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>27f68081-4e07-43b4-bdd8-f397e6c16744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c74fa59-e75e-4f98-a13f-51c891a470ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8465d919-63c0-4d8a-a735-3dfc208a580f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>590a9858-493e-4dad-ad1a-71640392bcf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40659e22-660c-48f0-aff3-f107572f745c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>360e909c-2685-4abf-825c-986abd2268b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8da3f8a3-2944-46a4-8295-d8147b39d036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74763bb7-9e07-48e9-8b28-7a1d7eb0334d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>d4defab4-63de-4d2c-8024-1551b3ea979a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>696f63ad-fad1-4113-88b5-43f1a469668a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83bf1259-cb1c-449d-99b7-d208624d15c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>2a351886-69e2-4b2b-8965-fc4d2d763ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>dc3ddd9c-1b3a-4e59-88cb-e11f36b73eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d78823ae-b730-4801-9586-afe50b530860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1b7183e9-3c28-4bcd-a6da-debd984ad7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ca08c4f7-5090-407b-b327-7e4f02f90cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8aebf70e-7d9d-4d7b-9128-50c42033916b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>27ccb507-e7a1-4382-9fd7-d406e4d2ebdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>644edf7d-81aa-457f-be9e-9f4e828655f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc73275f-f2dc-4994-8122-e18c3845b594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>09bb4668-b06c-4dd9-be3b-ba64674ca4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c244087b-5dd5-4f6b-bcbe-6fe36eb58f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>279559dc-16cf-448b-a76c-ddc310f99614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a8bc4ab6-9711-48ab-9be7-7c6bcd3d0585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5dbd8620-8909-4def-99b7-e066c8e1d1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e8c388ff-f306-404c-af0d-3799baa7c9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>4e6e75cc-dfc7-46eb-845a-da587e9f9cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>97e23385-dd52-4c7f-b32b-d76410ceea0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52d896db-77af-4420-b61b-002ce10de570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>72040b86-f082-4d97-b05d-295439d4315b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>27d4f75a-bbed-448f-9d67-0f4dac988e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24c26235-979b-4bf1-8d09-496a8c647392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1e52909b-c554-4f25-940d-2da3746f9ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f02720d1-b9b8-4f55-ad3e-5b2fd370118b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>822ed583-c0b3-45dd-ac0b-76fd1bd7fe21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6df5dc0f-f351-4de8-bf70-7bf9f06743ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>097a4c5e-12a6-4697-ac45-191dfd935101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4eb6d26e-dada-4aea-895f-4f8fea86a938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ed7b653b-4214-4c9a-8f89-52ee2645546c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>7f1c31a6-b816-408d-b29f-e17c95cd4586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a90ca3c-ecd5-477c-9b86-d7825e8c20ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>636c89a8-41cc-4251-b437-431e7ca25cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>40af457e-7a64-4d60-a081-313ae4aa47cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd44c6f6-7ae2-43ce-ae86-0d85862d535f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>4e7e9f69-54bc-4c0e-826d-1131903cb169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>cc63430f-4751-4a74-8a62-c588c315ccd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>61e08d99-78dc-4346-b3d4-ce69d3ca43eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>eda72db3-4e82-420f-8649-d8cbfe5af8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ed25c9b6-7ac0-47fd-978a-c7ca1b4b9aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e91ae788-ad6a-4a25-95d9-c711dd90a752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6d0d358a-37cc-4d00-85f3-b4dfbd36e6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>83aac453-8336-466c-8349-845346f7e9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>694984c3-5e5d-4e5c-89fe-9790411e9472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>f852f2a0-5819-4292-9b23-50af0e23ebb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8ce93262-ae79-45a4-bef1-e9291701aedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c21ae18-4168-4e1c-a4c1-b45aff738bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b0ffeefd-9427-4061-8516-d0367a67b874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0aa1dd61-3ce5-4216-ba86-8d24d4fc8d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8cbdb66-4e45-4c73-98b2-4d78d172adfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>583ab68a-565a-47c1-aa94-830bbd5b4452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>db159b58-0e03-4dcb-96dd-c203ad4adb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2e334021-6593-4e79-9ee6-ba2bb8f0856b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>84b4c2f8-c5e9-40bc-bfa4-edd114cb5102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>fd1ad970-8f08-4a7e-9428-af84bc3ade62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>562adfc3-2434-4df8-9f8a-b269bdc65d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>bd4de6d4-8429-4493-a21c-db99aa3d8cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>dcb530f2-5817-4ab2-80db-6e8197b0d82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f76b9549-6970-48ca-8f1b-6d31486cf712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5f11b34b-2852-415e-8bb0-3a245f8d6068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d3aff97b-9213-4917-8642-0dab8d42bfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33230243-247d-4052-a8c2-e7f4968b1d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>fc17fc19-a8d5-45e7-a769-2f3e684e1587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>360e6d03-924e-4027-baba-ed20c88001c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce0f72f8-bf1c-4edc-96c8-e8053e2a982a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>61243ff2-cacd-4802-81e6-2379a7aa5ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b80c950f-f457-40b2-8b03-7a6fd4edd32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>247fec02-1a68-45a0-9c71-3ab3636c4014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8833ab38-1b60-4a64-833e-43b1d93b8dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0df54bd3-b3f3-4343-b94b-0215a947e476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1640e1c0-2e61-4459-85a7-6fd8e2c92a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6dde4ece-0c76-4c29-96cf-a6166f6f1a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>e750b7cc-31b5-4d5f-b75c-20977a71e3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c33ca2cb-a488-4687-91ed-a5ef73eaef22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>161dea73-9bff-41fd-ba35-00c298c98b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d9ffcab7-322d-4d0b-a96f-9e539b61c209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62666520-2516-48c1-bbdd-18a45c2fd82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a3bf0ba9-f16b-42d9-a0bc-3c28a20eaac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>dcc3aacf-4ec2-4864-b96e-5973208815ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07256847-447d-4d5f-a7c3-5598efd84955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>834b2e40-e905-4bdf-af93-40c9132afaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>21c3c75a-13c7-4a03-80c5-125d1b6e9d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eba462d7-101d-48dc-b9c3-a7b83f1d4dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ea45dfc0-37e9-44e6-b072-4f35dadc60fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>28842ba9-39fa-44ca-b058-c3031654c268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>973ba217-e280-4f6e-9158-848da1d42820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1d3a2165-fa72-4c44-bd3c-e10256fa3c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>608df011-3d39-4c12-b5f5-a08b77a31111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c5b8702-7e3f-4a09-a5da-3dd1989b0927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5665e71a-0a16-455f-89d6-a414fe97e0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f1cac086-2c5c-4e54-a6c2-a90a7d992567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af036ae8-aa78-47aa-89ca-9428af90dcad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6bbf54a7-c58c-49ac-9592-d7f5850459f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>be67e0e7-5eb5-4fcd-bea6-c571d676e3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1391bfe5-088d-4449-86b2-fa18b7ba00d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a88d8185-3871-474a-8121-642d14b0bc05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>65c0fa80-1169-4cc8-a0db-bc9d5401a44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bfe233fd-ff62-4104-b7fc-2a1626d92ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e11a9f09-388a-4dfb-aa0f-990cd60160a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>8a98b607-84ca-4c9c-b0db-2a739524e66a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83a76865-d555-4caa-a5ba-bcc7122b3e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>c35bc79a-c05d-4148-9aae-63c0d3ee1182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>e9e56766-9cf5-4a6c-a1de-329872005a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f346603d-fdb5-4160-861c-97cd39819bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>50260461-e670-4e94-bc09-c78c8e124633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>37e5b426-e409-4073-b051-f94e74c0893a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d52c56b-922b-4780-a6f1-0f4ef610a4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>c56a9fe1-d9ec-4e52-bd55-9a20aabedef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>aae254af-058d-444b-bc17-802019ad1207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d488637e-00db-427d-98ce-393f613bbc32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>f62b9c5c-1778-4022-b838-70013f2b1089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>cad434b9-d152-4257-ba6d-4177e6f7f85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a1ce2d8-5421-4eb2-a4c1-6c562353a00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>7c68c8a8-3c8d-4773-8068-b27f96c23726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c0baadbb-4abe-47c3-886d-3e6e10a8e106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1662746c-5afe-4ed1-9e94-f10653cf78b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e354d071-5d2b-4920-a0ad-9cccd46e8e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5911b5cf-50ce-43f1-982e-978b0bb16364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea3e5e0f-b698-4d61-b7ee-dac4ce8a312d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b8631cf7-46d1-49cd-a9bf-fc736fe35f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>a56ebbec-3f2b-46c6-a793-0c97350e7d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d51a4d9-b175-41bc-a635-a8b7707585d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>2752a855-a007-4354-8b6e-deb3736b10e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>91e4b74b-a244-4e6c-938d-1304d3b148c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2f21505-b479-4830-8ca1-cab97acf4524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e60e77aa-5004-4438-bed8-e31ef4921304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>2ad49ae6-a1f8-491f-8ce9-ae65d6873e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55ed3e55-beb8-4753-ba9f-32e758239f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>0c3e26a3-6c1b-4cf5-bd11-61107afb16b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1e59056b-af5e-41cd-86e0-a93cc9c9dbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>489a7435-903e-4135-996d-31acf32048ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>4e59e04d-3a5c-4a58-bd2b-9ece915e5353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5191ddf6-b03b-4709-8d96-b8e5499a1e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>08ac4fd3-bef5-48ee-89b0-e91b4183b047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6bf2c91a-91ee-40b0-b183-4da374bdf8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0fdbce66-3a88-4cfe-8c77-903c013d94f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40d1b3de-b07f-41e1-8fc5-eaaf942ba13a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>3278515b-6e84-4d62-9224-fbe71815f29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>85ac48e1-c504-4291-80af-643a60e02906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14f3dd4c-6d71-49b6-9b60-9ff217bd97b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>69db5f05-e64f-4a60-81ec-2714038aa2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>213eab73-10e8-44a0-884d-42c7d2d0bebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9ae5650-044d-4b43-8c71-0a54ce8ba5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e61e60cc-4f1a-47e2-800a-566dac03c64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>142775f7-4a5d-48af-a566-e37447b944d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c561369-222f-427a-a0b7-09b39aa18585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>4bd73d86-1d91-4495-a11e-59acfb2c9c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>3b39bc7c-0329-4540-9bfc-6743f7ef40e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b451436-f804-4e24-84bb-b203abb332b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a54fb99a-711c-4327-aabf-55841110de14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>76ddea24-fcce-4549-9307-07179f81b0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd456c0c-0627-49a1-b275-b4f8902d99db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1b7b03fc-4646-4895-8131-83e563a92cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>87d966f2-da75-499d-873e-2e5021e10384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9562ffda-e8ab-4138-a098-258fed96dd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>fdf033d5-ba23-4319-8b32-9554f6f8ebbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c71ed561-8db4-499b-a17b-479ef1f89eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc7db159-6c2e-4df9-9fb4-273830b8cd1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>65501ccd-04a9-4c6e-8eb6-6b002eb30124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>31febf97-2a9b-4abb-9cf7-e712e9c4a6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a54185b8-fb7a-45a1-8eaa-6571988b26ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a7919a9e-4557-4f7f-bf63-9a67956e0f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0ec95220-ddd2-460a-89f7-8891d05ae0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0fdecbd-b476-4cbc-9331-ac4733aaf4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>0e5034e4-5cba-46ed-a7ed-4c701407c41c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>b2996605-e70a-44ee-ba85-a32eab82bf5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69f4472c-7a16-4cff-a433-3b3feea4bf71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>97391b50-ab08-4fe8-8599-f4a3104f9bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>a22ff0ae-48d2-41fd-99d1-716489078c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>699fb786-2601-4289-bc75-22fa51686217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>926f8a50-2c64-4d20-a78e-bf0be1a0de86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>95b73a44-5788-4c3c-87c9-c2e45c7cc518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bde6044e-76c3-4d6c-9bf9-fd726f8e8deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e01457e6-f900-471c-a30a-7363ec554e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0665fc49-2b1c-4da8-b34d-b8fa2a3fbbed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aeb3e7fe-af74-48a2-bbf0-d8214cb43db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8a892a53-24f3-4565-83b6-02a2f9f80c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0a6a2166-5674-41ab-a679-0ca47502c386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27e18ea7-e46e-4277-9e52-bbee651913c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>0b8b1b20-9298-4c91-8e05-41bdd3be3f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>da048603-4b5c-4f15-9056-efb5ed057160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19029914-3769-479c-9489-5d8aeaa4d78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>7f300890-c10d-4b03-ab8c-52fc65c0a9da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>a7f0ff33-585c-4710-b5c2-d3e5bf91ec56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2138c159-49c6-413a-8b2e-290544dcb95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>55560987-c9c8-45bd-85de-3f326a6c6299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>79f1bc81-0271-4296-9ef9-df8f957a39aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c289b63-bd20-4111-a5c7-c16e09d78279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>b6edd4a2-21b8-49a6-8143-5d85172bdb69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d8ffd192-7dc4-45c9-95bf-bba6a44bfc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24958ada-cae9-4c74-a976-d24f3a9b8360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>c481b260-519c-4ace-9467-a506a5340005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f64802d2-ea03-4138-bb8c-348df28ee74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3eda4ff-c78c-4f50-ad3d-76eaaa619b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>0c72c56e-92a2-47a0-8ed0-73d13fc79fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>5d2c1ba6-f1de-48c1-a8d3-59b1d1e784c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5eb01898-df10-4d52-aa10-f82ba1d803d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>2ae90b4f-9b36-472d-ae40-74b03898a8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>465f944c-876c-44d9-9044-57b9318d5a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90bcd28b-d52a-4680-881f-e9fe71e3d9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e56d4a64-e3dc-45d2-819a-a6bc76eed4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>774c6a8c-1f61-43b5-8ed1-c3aaa93a1016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>272f17d8-ac82-45c4-95cf-99b99e6b2ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ea4bff9c-a13a-4838-a10e-28dd06a28077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>dba72344-9f79-4b4e-a7a7-2801caa0eb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>320e873b-9e45-409f-a947-9250bc423de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>6895a254-a671-4773-a666-44384739ce92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>1abb0051-db92-44c4-9159-90f4fc689431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a1f2bcb-8a70-4f82-b116-493bc0da98ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>a4b43d86-7871-4757-aa0e-46194aff0967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f5d309ee-ead3-4e71-b10a-fd04e0075a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b043dab0-6ae3-4ceb-bb77-72e8b4d58aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>2813397e-015d-4307-b5d1-7d68b29e1e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0e22c0dc-3ff1-4335-afb5-258f742e0ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca9b59dc-2d08-4f46-a47b-537c490425a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>5225804f-d442-4aa4-a8b1-0df1834c3c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>c62b5d26-c3ad-4601-8baf-5693f05db161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4593260-ce60-438e-b67f-c268978ba406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>83863f76-998f-471b-b675-2ec315174fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>ce31668b-2140-4bc6-b9bc-f9e788e810f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52c2b496-9831-4b82-967d-6df4dbeb56d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>ddb6f301-febb-4e01-adac-3934b5e7d641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>239a1716-f926-414a-8803-ac7ff850ac54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c6ece10-3cf8-4491-acac-761074fc2e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>8bb9eae5-cda9-4db9-9899-bfed40d87964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>42cfd0f5-89d0-45f2-8e35-cbca02f876c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74efe69a-2fa6-4409-a8e2-73b658617260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>e405f2c1-e40b-435f-b28d-8b79938e18b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>3290c56f-f2c9-4cab-95e0-efe66ad65108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>12a25a70-6282-4b34-8edc-cfab1353ec0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>851c5898-a013-4e54-9f6e-b6772cad31d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>0e380580-6f92-4670-a23d-2359e1d5e9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8618c124-9f0f-4057-a02a-930f2cd9b3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>1e8b1bfc-1b16-4a38-81fa-e4ed7614c95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>d5024727-16f6-4f0f-950c-2cb72534bb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>192ce3f0-18dd-4a30-ad35-a211276be479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>84c0eb41-1a25-4313-9f6f-9f8ff09c9ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>f87b9832-8113-48ce-80ff-495201541460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19ed9ccb-2b51-459b-8b6d-bf6df5fce06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>f617832f-72ed-4c1e-a48b-2ed20bb0944d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>736d484a-4740-4ad0-b92a-827e37bd9ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb1af620-cae1-446d-9e5d-41ccfcfec3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>f4fc4b99-4f7d-45a0-b301-8e69fa71fce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>800e279b-d69f-4453-a016-959233f4dd61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6179b392-58c9-4b25-b11f-8a0c2f20683a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ngành nghề/ Địa điểm
+</value>
+      <webElementGuid>18428ad3-b1eb-4cf7-b83e-03efb92bf15a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-navigation&quot;)/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto d-none d-lg-flex&quot;]/div[@class=&quot;nav-group-1 d-flex&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link nav-link-with-icon&quot;]/span[1]</value>
+      <webElementGuid>972a6fd1-a55f-4e72-a495-bc0c8e14e338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='top-navigation']/div/ul/div/li/a/span</value>
+      <webElementGuid>763b14b1-2281-4177-9618-fbe1f1f5b1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca6e2fef-c115-406c-b459-1345b307262d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cẩm nang việc làm'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e6593ca-d5b0-45e1-91bf-2640ad8cfbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ngành nghề/ Địa điểm']/parent::*</value>
+      <webElementGuid>afa1ef8c-8c8f-4f8e-8014-2a164ff82643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c2baf1a4-29f9-4103-b517-e6347df78297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+Ngành nghề/ Địa điểm
+' or . = '
+Ngành nghề/ Địa điểm
+')]</value>
+      <webElementGuid>d5f85ad9-1064-4416-a250-87aee7c807c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
